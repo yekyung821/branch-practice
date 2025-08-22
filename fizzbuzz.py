@@ -1,5 +1,5 @@
-for i in range(1,16):
-    if i % 3 == 0 :
+for j in range(1,17):
+    if j % 3 == 0 :
         print('Fizz')
     else :
-        print(i)
+        print(j)
